@@ -1,0 +1,86 @@
+body{
+  background: #7CFFD9;
+  font-family:courier;
+
+}
+
+#logo{
+  font-family:courier;
+}
+
+nav{
+  
+  padding-bottom: 5px;
+}
+
+
+#imagen-logo{
+  width:110px;
+  height: 110px;
+  border-radius:30px;
+
+}
+#slogan{
+  font-size: 13px;
+  font-family:courier;
+  font-weight:bold;
+  font-style:italic;
+}
+
+.size-10{
+  font-size:10px;
+}
+
+.button{
+  background-color: #FFFFFF;
+  color:#000000;
+}
+
+.encabezado{
+  padding-top: 0.5rem;
+
+}
+
+
+#favoritos{
+  width: 150px;
+  height: 100px;
+  padding: 7px;
+  border:2px dashed black;
+  border-radius:10px;
+}
+
+#contenido{
+  padding-top: 5rem;
+}
+
+#img-comentarios{
+  width: 40px;
+  height:40px;
+}
+
+.comentarios{
+  border-top: 1px solid black;
+  border-bottom:1px solid black;
+  padding: 5px;
+}
+
+h4{
+  font-family:courier;
+  font-weight: bolder;
+  text-align: center;
+  
+}
+
+h5{
+  font-family:courier;
+  font-weight: bolder;
+  padding-top: 10px;
+
+}
+
+h6{
+   font-family:courier;
+  font-weight: bolder;
+  padding-top: 10px;
+}
